@@ -1,0 +1,11 @@
+bin/
+obj/
+*.user
+.vs/
+.vscode/
+TestResults/
+*.trx
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
