@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using RpgGame;
 using RpgGame.Core.Data;
 using RpgGame.Core.Models;
 using RpgGame.Core.Services;
